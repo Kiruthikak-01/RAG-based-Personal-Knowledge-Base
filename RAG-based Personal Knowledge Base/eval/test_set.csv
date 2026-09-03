@@ -1,0 +1,11 @@
+question,correct_source_1,correct_source_2,correct_source_3
+"What is machine learning?","notes.md","ml_intro.pdf",
+"How does backpropagation work?","ml_intro.pdf","deeplearning_book.txt",
+"Explain the concept of embeddings.","nlp_notes.pdf","embeddings_guide.md",
+"What are transformers and how do they work?","papers.pdf","transformer_paper.txt",
+"Describe the attention mechanism.","transformer_paper.txt","nlp_notes.pdf",
+"What is a vector database and why is it useful?","rag_guide.md","database_notes.txt",
+"How do retrieval-augmented generation systems work?","rag_guide.md","ml_intro.pdf",
+"Explain cross-entropy loss.","ml_intro.pdf","loss_functions.txt",
+"What is the difference between sparse and dense retrieval?","rag_guide.md","ir_notes.pdf",
+"How do you evaluate the quality of generated text?","eval_metrics.md","rag_guide.md",
